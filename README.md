@@ -17,3 +17,7 @@ git init projeto.git
 ipsum lorem dolor sit amet
 
 mussum lorem.
+
+
+alea jacta est
+hoc volo sic jubeo sit pro ratione voluntas.
