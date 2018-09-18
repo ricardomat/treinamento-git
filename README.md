@@ -33,3 +33,10 @@ git log --oneline --decorate --graph --all
 #### Ferramentas
 
 git mergetool
+
+
+
+##### Criando alias
+
+git config --global alias.l "log --oneline --decorate --graph --all"
+git l
