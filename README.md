@@ -28,3 +28,8 @@ hoc volo sic jubeo sit pro ratione voluntas.
 ```
 git log --oneline --decorate --graph --all
 ```
+
+
+#### Ferramentas
+
+git mergetool
