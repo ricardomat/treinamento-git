@@ -10,3 +10,17 @@ git init e o comando para criar um repositorio
 ```
 git init projeto.git
 ```
+
+
+### Cheat sheet
+
+```
+git log --oneline --decorate --graph --all
+```
+
+
+asdfa
+
+
+
+asldfjalsjfdlasd
