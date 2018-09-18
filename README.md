@@ -21,3 +21,10 @@ mussum lorem.
 
 alea jacta est
 hoc volo sic jubeo sit pro ratione voluntas.
+
+
+### Cheat sheet
+
+```
+git log --oneline --decorate --graph --all
+```
