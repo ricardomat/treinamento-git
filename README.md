@@ -30,4 +30,6 @@ git log --oneline --decorate --graph --all
 ```
 
 
-Hello world
+#### Ferramentas
+
+git mergetool
