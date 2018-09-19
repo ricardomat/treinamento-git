@@ -1,2 +1,3 @@
 go test
 no go test
+go no go
